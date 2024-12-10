@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+
+include: [".well-known"]
+include: ["note/*"]
