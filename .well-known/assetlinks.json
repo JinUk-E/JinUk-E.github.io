@@ -1,0 +1,9 @@
+[{
+  "relation": ["moraegames.com/googlelogin"],
+  "target": {
+    "namespace": "com.moraegames.moraesdk2",
+    "package_name": "com.moraegames.moraesdk2",
+    "sha256_cert_fingerprints":
+    ["60:AD:EB:85:A4:8F:F4:E6:77:99:DC:F7:BA:C7:9E:DF:63:34:83:B9:A2:20:68:26:DF:08:C8:AC:06:E6:BF:00"]
+  }
+}]
