@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>postlogin</title>
+</head>
+<body>
+
+</body>
+
+<script>
+    // get the post message from apple login
+    let message = window.opener.postMessage;
+    // send the massage to the deep link app to handle the login
+    window.location.href = "https://https://jinuk-e.github.io/moraelogin?message=" + message;
+    // close the window
+    window.close();
+</script>
+</html>
